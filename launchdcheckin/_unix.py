@@ -1,6 +1,6 @@
 # -*- test-case-name: twisted.test.test_unix,twisted.internet.test.test_unix,twisted.internet.test.test_posixbase -*-
 # Copyright (c) Twisted Matrix Laboratories.
-# See LICENSE for details.
+# See COPYING for details.
 
 
 """

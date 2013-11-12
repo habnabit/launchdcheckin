@@ -1,4 +1,4 @@
-from ldcheckin.endpoints import LaunchdParser
+from launchdcheckin.endpoints import LaunchdParser
 
 
 _theParser = LaunchdParser()

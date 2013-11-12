@@ -1,3 +1,6 @@
+# Copyright (c) Aaron Gallagher <_@habnab.it>
+# See COPYING for details.
+
 import os
 import socket
 
@@ -8,8 +11,8 @@ from twisted.internet import defer, fdesc
 from twisted.plugin import IPlugin
 from zope.interface import implementer
 
-from ldcheckin._impl import LaunchData
-from ldcheckin._unix import Port
+from launchdcheckin._impl import LaunchData
+from launchdcheckin._unix import Port
 
 
 @implementer(IStreamServerEndpoint)
