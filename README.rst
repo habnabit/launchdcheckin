@@ -10,7 +10,7 @@ endpoint type for Twisted. Given a ``launchd.plist`` that includes::
     <key>Listeners</key>
     <dict>
       <key>SecureSocketWithKey</key>
-      <string>PASSACRE_AGENT</string>
+      <string>SOME_AGENT</string>
     </dict>
   </dict>
 
