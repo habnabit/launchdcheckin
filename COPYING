@@ -1,5 +1,5 @@
-ldcheckin
-=========
+launchdcheckin
+==============
 
 Copyright (c) 2013, Aaron Gallagher <_@habnab.it>
 
@@ -16,8 +16,8 @@ OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
 
 
-ldcheckin/_unix.py
-==================
+launchdcheckin/_unix.py
+=======================
 
 This module is taken from the ``unix-adopt-port-5573`` branch of the Twisted
 source repository.
